@@ -1,0 +1,21 @@
+# Environment
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+
+# Temporary files
+temp.py
+temp1.py
+query.sql
+
+# Virtual env
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
